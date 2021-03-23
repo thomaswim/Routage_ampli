@@ -1,2 +1,10 @@
-Routage Ampli par Clémence Arnal et Thomas Boursac
-3 IMACS C
+
+# Routage Ampli 
+#### par Clémence Arnal et Thomas Boursac, 3 IMACS C
+
+```
+git clone https://github.com/thomaswim/Routage_ampli
+```
+
+Symbole Relay => Relay/Relay_1CT
+
