@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name OJ-SS-112LMH2_005)(type Legacy)(uri "${KIPRJMOD}/lib/libs tiers/KiCad/OJ-SS-112LMH2_005.mod")(options "")(descr ""))
+  (lib (name CmpAmpliAudio)(type KiCad)(uri ${KIPRJMOD}/lib/LibAmpli_3imacs/CmpAmpliAudio.pretty)(options "")(descr ""))
+  (lib (name 2N2907)(type KiCad)(uri ${KIPRJMOD}/lib/2N2907)(options "")(descr ""))
+)
