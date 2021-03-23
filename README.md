@@ -5,3 +5,6 @@
 ```
 git clone https://github.com/thomaswim/Routage_ampli
 ```
+
+Symbole Relay => Relay/Relay_1CT
+
