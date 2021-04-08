@@ -3,4 +3,5 @@
   (lib (name 2N2907_)(type Legacy)(uri ${KIPRJMOD}/lib/2N2907/2N2907_.lib)(options "")(descr ""))
   (lib (name OJ-SS-112LMH2_005)(type Legacy)(uri "${KIPRJMOD}/lib/libs tiers/KiCad/OJ-SS-112LMH2_005.lib")(options "")(descr ""))
   (lib (name relay_1ct)(type Legacy)(uri ${KIPRJMOD}/lib/LibAmpli_3imacs/relay_1ct.lib)(options "")(descr ""))
+  (lib (name ampli-rescue)(type Legacy)(uri ${KIPRJMOD}/ampli-rescue.lib)(options "")(descr ""))
 )
